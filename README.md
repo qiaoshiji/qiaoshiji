@@ -1,5 +1,7 @@
 ### Hi there 👋
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/qiaoshiji/competition)
+
+![qiaoshiji's github stats](https://github-readme-stats.vercel.app/api?username=qiaoshiji&show_icons=true&hide_border=true)
+
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/qiaoshiji/competition/light)
 
 <!--
