@@ -1,4 +1,6 @@
 ### Hi there 👋
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/qiaoshiji/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/qiaoshiji/competition/light)
 
 <!--
 **qiaoshiji/qiaoshiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
